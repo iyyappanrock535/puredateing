@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "926900691816",
+    "firebase_url": "https://puredating-unvaxxed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "puredating-unvaxxed",
+    "storage_bucket": "puredating-unvaxxed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926900691816:android:6e0620674e4ea73271ecdd",
+        "android_client_info": {
+          "package_name": "com.puredating.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926900691816-sq2te0khmvbe3qtrp5vkljqj62mi4m0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6EzYbSKoRCZEOQWxACPVzMyWUvrIItkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926900691816-sq2te0khmvbe3qtrp5vkljqj62mi4m0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926900691816-rq7vg327n1j97n1cn58te4rv4kogto5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926900691816:android:27164fed2325af7571ecdd",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926900691816-guu5euteap95q0faeoc0u7da16bin8of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "423bd96965b9c9afbe7560474f0a32080c7b188e"
+          }
+        },
+        {
+          "client_id": "926900691816-sq2te0khmvbe3qtrp5vkljqj62mi4m0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6EzYbSKoRCZEOQWxACPVzMyWUvrIItkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926900691816-sq2te0khmvbe3qtrp5vkljqj62mi4m0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926900691816-rq7vg327n1j97n1cn58te4rv4kogto5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
