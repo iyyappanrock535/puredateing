@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "puredating",
+    "slug": "puredating",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ICONL.png",
+    "splash": {
+      "image": "./assets/splashn.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/57a67364-fcd2-46a1-8914-1597fd1c0498"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.puredatingv1.puredating",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LOGOM.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.puredating.app",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 10
+    },
+    "web": {
+      "favicon": "./assets/faviconm.png"
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "57a67364-fcd2-46a1-8914-1597fd1c0498"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos "
+        }
+      ]
+    ]
+  }
+}
